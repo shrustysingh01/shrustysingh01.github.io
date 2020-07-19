@@ -8,5 +8,5 @@ Here is my portfolio site. Visit shrustysingh01.github.io to view it.
 #### 4.PHP
 
 ## Contact:
-- [LinkedIN](www.linkedin.com/in/shrustysingh01)
+- [LinkedIn](www.linkedin.com/in/shrustysingh01)
 - [Email](shrusty7@gmail.com)
