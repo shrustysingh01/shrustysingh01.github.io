@@ -7,6 +7,6 @@ Here is my portfolio site. Visit shrustysingh01.github.io to view it.
 #### 3.Sass
 #### 4.PHP
 
-##Contact:
-[LinkedIN](www.linkedin.com/in/shrustysingh01)
-[Email](shrusty7@gmail.com)
+## Contact:
+- [LinkedIN](www.linkedin.com/in/shrustysingh01)
+- [Email](shrusty7@gmail.com)
