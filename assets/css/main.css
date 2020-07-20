@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 
 
@@ -646,6 +647,7 @@ input, select, textarea {
 
     .linkImage a{
     	border: none;
+    	padding-top: 10px;
     }
 
     #im1 {
@@ -1711,11 +1713,13 @@ input, select, textarea {
 /* QUOTE */
    
    .quote {
-	font-family: 'Abril Fatface', cursive;
+   	font-family: 'Fjalla One', sans-serif;
+	/*font-family: 'Abril Fatface', cursive;
     font-family: 'Anton', sans-serif;
-    font-family: 'Galada', cursive;
+    font-family: 'Galada', cursive;*/
 }
 
+   
    
    .checked {
   color: orange;
